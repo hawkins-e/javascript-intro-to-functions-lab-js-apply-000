@@ -1,5 +1,5 @@
 describe (shout ("hello")
-)'function shout("string")
+function shout("string")
 
 {
   return 
