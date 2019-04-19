@@ -1,7 +1,5 @@
-describe (shout ("hello")
-('shout(string)',
-
+function shout(string)
 {
   return 
-  "hello".toUpperCase()
+string.toUpperCase()
 }
